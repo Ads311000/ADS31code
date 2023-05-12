@@ -1,2 +1,4 @@
 # ADS31code
-Latihan program
+Latihan program bahasa python
+Kalkulator luas dan keliling trapesium
+library tkinter
